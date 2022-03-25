@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "754183581898",
+    "project_id": "sumate-firebase",
+    "storage_bucket": "sumate-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754183581898:android:558a64c02bb051065c4433",
+        "android_client_info": {
+          "package_name": "com.example.sumate_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754183581898-80ppg2tmau4imdd72p7nbplahtedt5ji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sumate_mobile_app",
+            "certificate_hash": "ec815abf0bf417af57e38fd5d1079e51aace18d8"
+          }
+        },
+        {
+          "client_id": "754183581898-jvluf440sbvs36dlf1gullh2e7tfctj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sumate_mobile_app",
+            "certificate_hash": "354fe3274a201237dbd95991a14e39377a9d0e49"
+          }
+        },
+        {
+          "client_id": "754183581898-ilubbut8oalb38r4vauanmgokpc3pm16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYinwvCS2Iwm5YX2aMhKN4NeW4fMX3a7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754183581898-ilubbut8oalb38r4vauanmgokpc3pm16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
